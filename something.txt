@@ -1,0 +1,7 @@
+separate components for:
+info (photo, name, buttons, etc.)
+About
+Interests
+Footer (social icons)
+
+
